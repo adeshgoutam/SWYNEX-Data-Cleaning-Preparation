@@ -79,7 +79,7 @@ The cleaned dataset was validated after the cleaning process.
 The final cleaned dataset is available here:
 
 **Cleaned Dataset:**
-[Google Drive - cleaned_online_retail.csv](https://docs.google.com/spreadsheets/d/1_xIt6KeY71JzHj68H8Mm1I0skN_qiivS/edit?usp=sharing&ouid=104651567712162475356&rtpof=true&sd=true)
+[Google Drive - cleaned_online_retail.csv](https://drive.google.com/file/d/1_kR6xOn0ZyJOQ1Gy8L3JeWDphgQ9uR3E/view?usp=sharing)
 
 ## Notebook
 
